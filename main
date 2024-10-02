@@ -1,4 +1,30 @@
 { "cn2": [
-        { "question": "Guess the prefecture-level city", "answer": ["AHSùzhōu", "宿州市", "宿州"], "image_url": "https://abc.xyz/mrow.png" }
+        { "question": "Guess the prefecture-level city", "answer": ["AHĀnqìng", "安庆市", "安庆"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHAnqing.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHBèngbù", "蚌埠市", "蚌埠"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHBengbu.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHBózhōu", "亳州市", "亳州"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHBozhou.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHChízhōu", "池州市", "池州"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHChizhou.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHChúzhōu", "滁州市", "滁州"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHChuzhou.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHFùyáng", "阜阳市", "阜阳"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHFuyang.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHHéféi", "合肥市", "合肥"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHHefei.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHHuáiběi", "淮北市", "淮北"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHHuaibei.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHHuáinán", "淮南市", "淮南"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHHuainan.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHHuángshān", "黄山市", "黄山"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHHuangshan.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHLù'ān", "Lùān", "Liùān", "六安市", "六安"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHLu'an.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHMǎ'ānshān", "Mǎ ān Shān", "Mǎānshān", "马鞍山市", "马鞍山"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHMa'anshan.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHSùzhōu", "宿州市", "宿州"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHSuzhou.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHTónglíng", "铜陵市", "铜陵"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHTongling.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHWúhú", "芜湖市", "芜湖"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHWuhu.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["AHXuānchéng", "宣城市", "宣城"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHXuancheng.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJFúzhōu", "福州市", "福州"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJFuzhou.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJLóngyán", "龙岩市", "龙岩"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJLongyan.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJNánpíng", "南平市", "南平"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJNanping.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJNíngdé", "宁德市", "宁德"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJNingde.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJPútián", "莆田市", "莆田"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJPutian.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJQuánzhōu", "泉州市", "泉州"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJQuanzhou.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJSānmíng", "三明市", "三明"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJSanming.png" },
+        { "question": "Guess the sub-provincial city", "answer": ["FJXiàmén", "厦门市", "厦门"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJXiamen.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["FJZhāngzhōu", "漳州市", "漳州"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/FJZhangzhou.png" },
+        { "question": "Guess the prefecture-level city", "answer": ["", "宿州市", "宿州"], "image_url": "" },
+
     ]
 }
