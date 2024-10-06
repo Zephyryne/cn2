@@ -367,8 +367,8 @@
         { "question": "Guess the municipality", "answer": ["BJBěijīng", "北京市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/BJBeijing.png" },
         { "question": "Guess the municipality", "answer": ["CQChóngqìng", "重庆市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/CQChongqing.png" },
         { "question": "Guess the municipality", "answer": ["SHShànghǎi", "上海市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/SHShanghai.png" },
-        { "question": "Guess the municipality", "answer": ["TJTiānjīn", "天津市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/TJTianjin.png" }
-        { "question": "Guess the special administrative region", "answer": ["HKXiānggǎng", "Hong Kong", "香港市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/HKXianggang.png" }
+        { "question": "Guess the municipality", "answer": ["TJTiānjīn", "天津市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/TJTianjin.png" },
+        { "question": "Guess the special administrative region", "answer": ["HKXiānggǎng", "Hong Kong", "香港市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/HKXianggang.png" },
         { "question": "Guess the special administrative region", "answer": ["MOÀomén", "Macao", "Macau", "澳门市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/MOAomen.png" }
     ]
 }
