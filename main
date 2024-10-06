@@ -1,4 +1,4 @@
-{ "cn2": [
+{ "Cn2": [
         { "question": "Guess the prefecture-level city", "answer": ["AHĀnqìng", "安庆市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHAnqing.png" },
         { "question": "Guess the prefecture-level city", "answer": ["AHBèngbù", "蚌埠市”], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHBengbu.png" },
         { "question": "Guess the prefecture-level city", "answer": ["AHBózhōu", "亳州市"], "image_url": "https://raw.githubusercontent.com/Zephyryne/cn2/refs/heads/main/AHBozhou.png" },
